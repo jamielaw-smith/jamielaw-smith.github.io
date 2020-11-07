@@ -53,6 +53,7 @@ Here is the <a href="./JLS_cv.pdf">PDF</a>.
 ## Videos
 Videos from recent simulations papers are available at <a href="https://www.youtube.com/channel/UCShahcfGrj5dOZTTrOEqSOA">this URL</a>. Please email if you would like a particular video I have shown in a talk.
 
+<!---
 ## PDFs of talks (selected)
 Tidal Disruptions in Kyoto: Confronting Theory with Observations, Kyoto, Japan, 2020, "Composition and Stellar Structure in TDEs using FLASH+MESA"
 <a href="./talks/Law-Smith_Kyoto_01.2020.pdf"> (PDF) </a>
@@ -71,6 +72,7 @@ UC Santa Cruz FLASH Seminar, Santa Cruz, CA, 2017, "Tidal Disruptions: Fingerpri
 
 Jerusalem Tidal Disruption Event Workshop, Jerusalem, Israel, 2015, "Helium-core Hydrogen-envelope WDs as a Missing Link in TDE Demographics"
 <a href="./talks/Jerusalem_Nov2015.pdf"> (PDF) </a>
+--->
 
 ## Collaborators
 I feel very lucky to work with so many amazing people. As a small step toward giving them the credit they deserve, below is a list of my advisors and recent collaborators:
