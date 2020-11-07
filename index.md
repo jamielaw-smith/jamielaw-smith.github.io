@@ -44,7 +44,7 @@ Up-to-date list available on
 ## Software
 Jamie A. P. Law-Smith, David A. Coulter, & Brenna Mockler, 2020, “<tt>jamielaw-smith/STARS_library</tt>”, v1.0.5, Zenodo, <a href="https://doi.org/10.5281/zenodo.4062018">10.5281/zenodo.4062018</a>
 
-The <tt>STARS_library</tt> (v1.0.5 on Zenodo, <a href="https://doi.org/10.5281/zenodo.4062018">10.5281/zenodo.4062018</a>; available on GitHub at <a href="https://github.com/jamielaw-smith/STARS_library">https://github.com/jamielaw-smith/STARS_library</a>), an interpolated grid of fallback rates to the black hole (dM/dt) from 3D hydrodynamical simulations of tidal disruption events (TDEs) using realistic stellar models.
+The <tt>STARS_library</tt> (v1.0.5 on Zenodo, <a href="https://doi.org/10.5281/zenodo.4062018">10.5281/zenodo.4062018</a>) available on GitHub at <a href="https://github.com/jamielaw-smith/STARS_library">https://github.com/jamielaw-smith/STARS_library</a>), is an interpolated grid of fallback rates to the black hole (dM/dt) from 3D hydrodynamical simulations of tidal disruption events (TDEs) using realistic stellar models.
 
 
 ## CV
@@ -76,7 +76,6 @@ Jerusalem Tidal Disruption Event Workshop, Jerusalem, Israel, 2015, "Helium-core
 
 ## Collaborators
 I feel very lucky to work with so many amazing people. As a small step toward giving them the credit they deserve, below is a list of my advisors and recent collaborators:
-
 Enrico Ramirez-Ruiz (advisor);
 Michael Dine (advisor);
 Douglas N.C. Lin (advisor);
@@ -105,7 +104,6 @@ David Schlegel (undergraduate advisor).
 
 ## Mentees
 I am also lucky to have worked with some amazing undergraduates:
-
 Chang Liu, undergraduate (Peking University). 2020-present;
 Monica Gallegos-Garcia, undergraduate (UCSC); on to PhD at Northwestern. 2015-2018;
 Priscilla Camacho Olachea, “post-bac” student (UCSC). 2016-2017.
