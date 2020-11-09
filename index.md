@@ -44,7 +44,7 @@ Up-to-date list available on
 ## Software
 Jamie A. P. Law-Smith, David A. Coulter, & Brenna Mockler, 2020, “<tt>jamielaw-smith/STARS_library</tt>”, v1.0.5, Zenodo, <a href="https://doi.org/10.5281/zenodo.4062018">10.5281/zenodo.4062018</a>
 
-The <tt>STARS_library</tt>, available on GitHub at <a href="https://github.com/jamielaw-smith/STARS_library">https://github.com/jamielaw-smith/STARS_library</a>), is an interpolated grid of fallback rates to the black hole (dM/dt) from 3D hydrodynamical simulations of tidal disruption events (TDEs) using realistic stellar models.
+The <tt>STARS_library</tt>, available on GitHub at <a href="https://github.com/jamielaw-smith/STARS_library">https://github.com/jamielaw-smith/STARS_library</a>, is an interpolated grid of fallback rates to the black hole (dM/dt) from 3D hydrodynamical simulations of tidal disruption events (TDEs) using realistic stellar models.
 
 
 ## CV
