@@ -1,3 +1,5 @@
+<img src="https://jamielaw-smith.github.io/headshot2.png" width="100">
+
 # Jamie Alexander Powell Law-Smith
 
 ## Contact
