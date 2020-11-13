@@ -27,7 +27,7 @@ I am a PhD student in Astronomy &amp; Astrophysics at UC Santa Cruz.
 I am interested in a wide variety of problems in high energy astrophysics theory.
 I am currently working on
 (1) tidal disruptions of stars by black holes,
-(2) common envelope episodes and stellar mergers, especially in the context of gravitational wave sources,
+(2) common envelope evolution in the context of gravitational wave sources,
 (3) accretion onto neutron stars in a dense medium, and
 (4) the structure of AGN accretion disks with embedded stars.
 I have also worked on vacuum decay and de Sitter space in string theory.
