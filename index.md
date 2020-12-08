@@ -29,7 +29,7 @@ I am currently working on
 (1) tidal disruptions of stars by black holes,
 (2) common envelope evolution in the context of gravitational wave sources,
 (3) accretion onto neutron stars in a dense medium, and
-(4) the structure of AGN accretion disks with embedded stars.
+(4) the structure of AGN disks with embedded stars.
 I have also worked on vacuum decay and de Sitter space in string theory.
 
 I did my undergraduate at Harvard in Physics and Astrophysics.
