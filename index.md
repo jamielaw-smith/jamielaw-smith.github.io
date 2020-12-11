@@ -11,9 +11,8 @@ Dept. of Astronomy & Astrophysics, University of California Santa Cruz <br>
 Office: ISB 157
 
 ## Research interests
-High energy astrophysics theory, tidal disruption events, compact objects
-(black holes, neutron stars, white dwarfs), common envelope episodes,
-stellar evolution, stellar mergers, gravitational-wave progenitor formation, host galaxies, 
+High energy astrophysics theory, tidal disruption events, black holes, neutron stars, 
+common envelope, gravitational-wave progenitor formation, extragalactic astronomy, 
 accretion disks, active galactic nuclei, changing-look quasars, 
 vacuum decay, de Sitter space in string theory
 
