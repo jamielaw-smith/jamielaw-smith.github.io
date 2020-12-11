@@ -12,7 +12,7 @@ Office: ISB 157
 
 ## Research interests
 High energy astrophysics theory, tidal disruption events, black holes, neutron stars, 
-common envelope, gravitational-wave progenitor formation, extragalactic astronomy, 
+common envelope evolution, gravitational-wave progenitor formation, extragalactic astronomy, 
 accretion disks, active galactic nuclei, changing-look quasars, 
 vacuum decay, de Sitter space in string theory
 
@@ -29,7 +29,7 @@ I am currently working on
 (2) common envelope evolution in the context of gravitational wave sources,
 (3) accretion onto neutron stars in a dense medium, and
 (4) the structure of AGN disks with embedded stars.
-I have also worked on vacuum decay and de Sitter space in string theory.
+During my PhD I have also done work in theoretical physics, on vacuum decay and de Sitter space in string theory.
 
 I did my undergraduate at Harvard in Physics and Astrophysics.
 There I did work in experimental particle physics on the Higgs to WW decay channel for ATLAS,
