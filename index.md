@@ -52,7 +52,7 @@ The <tt>STARS_library</tt>, available on GitHub at <a href="https://github.com/j
 Here is the <a href="./JLS_cv.pdf">PDF</a>.
 
 ## Videos
-Videos from recent simulations papers are available at <a href="https://www.youtube.com/channel/UCShahcfGrj5dOZTTrOEqSOA">this URL</a>. Please email if you would like a particular video I have shown in a talk.
+Videos are available at <a href="https://www.youtube.com/channel/UCShahcfGrj5dOZTTrOEqSOA">this URL</a>. Please email if you would like a particular video I have shown in a talk.
 
 <!---
 ## PDFs of talks (selected)
