@@ -39,7 +39,7 @@ and in cosmology on custering-mass/color relationships in SDSS galaxies and on r
 ## Publications
 Up-to-date list available on
 <a href="https://ui.adsabs.harvard.edu/#search/q=author%3A%22law-smith%2C%20jamie%22&sort=date%20desc%2C%20bibcode%20desc">ADS</a>, on
-<a href="https://inspirehep.net/search?ln=en&p=a+law-smith&of=hb&action_search=Search&sf=earliestdate&so=d">INSPIRE</a>, or on
+<a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20law-smith">INSPIRE</a>, or on
 <a href="https://scholar.google.com/citations?user=fDQs5KoAAAAJ&hl=en">Google Scholar</a>.
 
 ## Software
