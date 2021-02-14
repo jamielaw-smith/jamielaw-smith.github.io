@@ -12,7 +12,7 @@ Office: ISB 157
 
 ## Research interests
 Black holes, tidal disruption events, 
-common envelope evolution, GW progenitor formation, extragalactic astronomy, 
+common envelope evolution, gravitational wave sources, extragalactic astronomy, 
 active galactic nuclei, vacuum decay, de Sitter space in string theory
 
 ## Education
@@ -22,7 +22,7 @@ Harvard University, A.B. in Physics, Astrophysics, 2010-2014
 
 ## Bio
 I am a PhD student in Astronomy & Astrophysics at UC Santa Cruz.
-I am interested in a variety of problems in high energy astrophysics theory and theoretical physics,
+I am interested in a variety of problems in theoretical astrophysics and physics,
 including tidal disruptions of stars by black holes,
 common envelope evolution in the context of GW sources,
 accretion onto neutron stars in a dense medium, 
@@ -50,29 +50,10 @@ The <tt>STARS_library</tt>, available on GitHub at <a href="https://github.com/j
 ## CV
 Here is the <a href="./JLS_cv.pdf">PDF</a>.
 
+
 ## Videos
 Videos are available at <a href="https://www.youtube.com/channel/UCShahcfGrj5dOZTTrOEqSOA">this URL</a>. Please email if you would like a particular video I have shown in a talk.
 
-<!---
-## PDFs of talks (selected)
-Tidal Disruptions in Kyoto: Confronting Theory with Observations, Kyoto, Japan, 2020, "Composition and Stellar Structure in TDEs using FLASH+MESA"
-<a href="./talks/Law-Smith_Kyoto_01.2020.pdf"> (PDF) </a>
-
-Dunlap Institute for Astronomy and Astrophysics, University of Toronto, Toronto, Canada, 2018, "Tidal Disruptions of Stars by Massive Black Holes"
-<a href="./talks/Dunlap_11.19.2018.pdf"> (PDF) </a>
-
-Using Tidal Disruption Events to Study Super-Massive Black Holes, Aspen, CO, 2018, "Tidal Disruptions of Real Stars"
-<a href="./talks/Aspen_2018_talk.pdf"> (PDF) </a>
-
-TDE17: Piercing the sphere of influence, Cambridge, UK, 2017, "TDE Host Galaxies in the Context of the Local Galaxy Population"
-<a href="./talks/Cambridge_TDE17.pdf"> (PDF) </a>
-
-UC Santa Cruz FLASH Seminar, Santa Cruz, CA, 2017, "Tidal Disruptions: Fingerprints of Quiescent Massive Black Holes"
-<a href="./talks/FLASH_2017.pdf"> (PDF) </a>
-
-Jerusalem Tidal Disruption Event Workshop, Jerusalem, Israel, 2015, "Helium-core Hydrogen-envelope WDs as a Missing Link in TDE Demographics"
-<a href="./talks/Jerusalem_Nov2015.pdf"> (PDF) </a>
---->
 
 ## Collaborators
 I feel very lucky to work with so many amazing people. As a small step toward giving them the credit they deserve, below is a list of my advisors and recent collaborators:
