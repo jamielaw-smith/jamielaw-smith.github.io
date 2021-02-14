@@ -11,10 +11,9 @@ Dept. of Astronomy & Astrophysics, University of California Santa Cruz <br>
 Office: ISB 157
 
 ## Research interests
-High energy astrophysics theory, tidal disruption events, black holes, neutron stars, 
-common envelope evolution, gravitational-wave progenitor formation, extragalactic astronomy, 
-accretion disks, active galactic nuclei, changing-look quasars, 
-vacuum decay, de Sitter space in string theory
+Black holes, tidal disruption events, 
+common envelope evolution, GW progenitor formation, extragalactic astronomy, 
+active galactic nuclei, vacuum decay, de Sitter space in string theory
 
 ## Education
 UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021 (expected)
@@ -22,14 +21,14 @@ UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021 (expected)
 Harvard University, A.B. in Physics, Astrophysics, 2010-2014
 
 ## Bio
-I am a PhD student in Astronomy &amp; Astrophysics at UC Santa Cruz.
-I am interested in a wide variety of problems in high energy astrophysics theory.
-I am currently working on
-(1) tidal disruptions of stars by black holes,
-(2) common envelope evolution in the context of gravitational wave sources,
-(3) accretion onto neutron stars in a dense medium, and
-(4) the structure of AGN disks with embedded stars.
-During my PhD I have also done work in theoretical physics, on vacuum decay and de Sitter space in string theory.
+I am a PhD student in Astronomy & Astrophysics at UC Santa Cruz.
+I am interested in a variety of problems in high energy astrophysics theory and theoretical physics,
+including tidal disruptions of stars by black holes,
+common envelope evolution in the context of GW sources,
+accretion onto neutron stars in a dense medium, 
+the structure of AGN disks with embedded stars, 
+vacuum decay, and 
+de Sitter space in string theory.
 
 I did my undergraduate at Harvard in Physics and Astrophysics.
 There I did work in experimental particle physics on the Higgs to WW decay channel for ATLAS,
