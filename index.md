@@ -117,7 +117,7 @@ the <a href="https://www.un.org/sustainabledevelopment/climate-change/">UN websi
 the <a href="https://www.oecd.org/environment/action-on-climate-change/">OECD website</a>,
 the <a href="https://www.activesustainability.com/climate-change/">Active Sustainability website</a>.
 
-Within academia and particularly in physics and astronomy, there are far fewer people from underrepresented groups in undergraduate majors,  phd positions, postdoctoral positions, and professorships than are reflected in the demographic makeup of the US (and the world).
+Within academia and particularly in physics and astronomy, there are far fewer people from underrepresented groups in undergraduate majors,  phd positions, postdoctoral positions, and professorships than are reflected in the demographic makeup of the world.
 The field needs to do something about this---this includes developing equitable and inclusive hiring, admissions, and
 grant and telescope proposal reviewal practices, as well as recruiting and retaining students from diverse groups in
 undergraduate and graduate education.
