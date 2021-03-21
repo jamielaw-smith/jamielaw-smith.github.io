@@ -32,7 +32,7 @@ de Sitter space in string theory.
 
 I did my undergraduate at Harvard in Physics and Astrophysics.
 There I did work in experimental particle physics on the Higgs to WW decay channel for ATLAS,
-and in cosmology on custering-mass/color relationships in SDSS galaxies and on resolving excess large-scale power and North/South differences in the SDSS.
+and in cosmology on clustering-mass/color relationships in SDSS galaxies and on resolving excess large-scale power and North/South differences in the SDSS.
 
 
 ## Publications
