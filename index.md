@@ -1,4 +1,4 @@
-<img src="https://jamielaw-smith.github.io/headshot.png" width="100">
+<img src="https://jamielaw-smith.github.io/headshot.jpeg" width="100">
 
 # Jamie Alexander Powell Law-Smith
 
