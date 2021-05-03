@@ -18,7 +18,7 @@ active galactic nuclei, vacuum decay, de Sitter space in string theory
 ## Education
 UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021 (expected)
 
-Harvard University, A.B. in Physics, Astrophysics, 2010-2014
+Harvard University, A.B. in Physics, Astrophysics (double), 2010-2014
 
 ## Bio
 I am a PhD student in Astronomy & Astrophysics at UC Santa Cruz.
