@@ -39,7 +39,7 @@ and in cosmology on clustering-mass/color relationships in SDSS galaxies and on 
 Up-to-date list available on
 <a href="https://ui.adsabs.harvard.edu/#search/q=author%3A%22law-smith%2C%20jamie%22&sort=date%20desc%2C%20bibcode%20desc">ADS</a>, on
 <a href="https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20law-smith">INSPIRE</a>, or on
-<a href="https://scholar.google.com/citations?user=fDQs5KoAAAAJ&hl=en">Google Scholar</a>.
+<a href="https://scholar.google.com/citations?user=Z_oEDBsAAAAJ">Google Scholar</a>.
 
 ## Software
 Jamie A. P. Law-Smith, David A. Coulter, & Brenna Mockler, 2020, “<tt>jamielaw-smith/STARS_library</tt>”, v1.0.5, Zenodo, <a href="https://doi.org/10.5281/zenodo.4062018">10.5281/zenodo.4062018</a>
