@@ -1,6 +1,6 @@
 <img src="https://jamielaw-smith.github.io/headshot.jpeg" width="100">
 
-# Jamie Alexander Powell Law-Smith
+# Jamie A.P. Law-Smith
 
 ## Contact
 Dept. of Astronomy & Astrophysics, University of California Santa Cruz <br>
@@ -16,7 +16,7 @@ common envelope evolution, gravitational wave sources, extragalactic astronomy,
 active galactic nuclei, vacuum decay, de Sitter space in string theory
 
 ## Education
-UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021 (expected)
+UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021
 
 Harvard University, A.B. in Physics, Astrophysics (double), 2010-2014
 
