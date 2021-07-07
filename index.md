@@ -21,7 +21,9 @@ UC Santa Cruz, Ph.D. in Astronomy and Astrophysics, 2015-2021
 Harvard University, A.B. in Physics, Astrophysics (double), 2010-2014
 
 ## Bio
-I am a PhD student in Astronomy & Astrophysics at UC Santa Cruz.
+I recently finished my PhD in Astronomy & Astrophysics at UC Santa Cruz.
+I will be moving to Harvard as an ITC Fellow in the fall.
+
 I am interested in a variety of problems in theoretical astrophysics and physics,
 including tidal disruptions of stars by black holes,
 common envelope evolution in the context of GW sources,
