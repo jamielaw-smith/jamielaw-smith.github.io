@@ -22,7 +22,7 @@ Harvard University, A.B. in Physics, Astrophysics (double), 2010-2014
 
 ## Bio
 I recently finished my PhD in Astronomy & Astrophysics at UC Santa Cruz.
-I will be moving to Harvard as an ITC Fellow in the fall.
+I will be moving to Harvard as an ITC Fellow in fall 2021.
 
 I am interested in a variety of problems in theoretical astrophysics and physics,
 including tidal disruptions of stars by black holes,
